@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi GitHub
+# Go Dawgs!
 
 <!--
 **Willtsolomon/willtsolomon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
